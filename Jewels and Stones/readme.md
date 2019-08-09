@@ -11,7 +11,7 @@ Output: 3
 
 ```
 
-## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Defanging%20an%20IP%20Address/sol.cpp)
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Jewels%20and%20Stones/sol.cpp)
 
 ### Solution: 
 Using nested loop, for each element in J string we will search for occurence of element in string S.

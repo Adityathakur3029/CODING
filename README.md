@@ -7,4 +7,4 @@ I learnt VECTOR and FUNCTIONS associated with it.
 
 - [Sort Array By Parity](https://github.com/Adityathakur3029/CODING/tree/master/Sort%20Array%20By%20Parity)
 - [Defanging an IP address](https://github.com/Adityathakur3029/CODING/tree/master/Defanging%20an%20IP%20Address)
-- [Jewels and Stones]()
+- [Jewels and Stones](https://github.com/Adityathakur3029/CODING/tree/master/Jewels%20and%20Stones)
