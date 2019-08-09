@@ -11,7 +11,7 @@ Output: "1[.]1[.]1[.]1"
 
 ```
 
-## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Sort%20Array%20By%20Parity/sol.cpp)
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Defanging%20an%20IP%20Address/sol.cpp)
 
 ### Solution: 
 Starting a loop from starting of the string till the end and replace '.' with "[.]" wherever found.
