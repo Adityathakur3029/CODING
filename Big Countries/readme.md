@@ -26,7 +26,5 @@ Write a SQL solution to output big countries' name, population and area.
 
 ```
 
-## [Solution]()
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Big%20Countries/sol.cpp)
 
-### Solution: 
-Starting a loop from starting of the string till the end and replace '.' with "[.]" wherever found.
