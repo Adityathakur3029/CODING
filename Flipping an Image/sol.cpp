@@ -1,25 +1,22 @@
 class Solution {
 public:
-    string removeOuterParentheses(string S) {
-        int i=0,open=0,close=0;
-        while(S[i]!='\0'){
-            if(open==0 && close==0){
-                open++;
-                S.erase(S.begin()+i);
+    vector<vector<int>> flipAndInvertImage(vector<vector<int>>& A) {
+        int i,j,temp;
+        int length=A[i].size();
+        for(i=0;i<A.size();i++){
+            for(j=0;j<A[i].size()/2;j++){
+                temp=A[i][j];
+                A[i][j]=A[i][length-1-j];
+                A[i][length-1-j]=temp;
             }
-            if(S[i]=='(')
-                open++;
-            else
-                close++;
-            if(open==close){
-                S.erase(S.begin()+i);
-                open=0;
-                close=0;
-                i--;
+            for(j=0;j<A.size();j++){
+                if(A[i][j]==0)
+                    A[i][j]=1;
+                else
+                    A[i][j]=0;
             }
-            
-            i++;
         }
-        return S;
+        return A;
+        
     }
 };

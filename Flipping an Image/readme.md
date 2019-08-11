@@ -15,7 +15,7 @@ Then, invert the image: [[1,0,0],[0,1,0],[1,1,1]]
 
 ```
 
-## [Solution]()
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Flipping%20an%20Image/sol.cpp)
 
 ### Solution: 
 We will have two nested loops inside a loop. First nested loop will reverse each 
