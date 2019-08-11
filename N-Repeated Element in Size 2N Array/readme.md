@@ -11,7 +11,7 @@ Output: 3
 
 ```
 
-## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Sort%20Array%20By%20Parity/sol.cpp)
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/N-Repeated%20Element%20in%20Size%202N%20Array/sol.cpp)
 
 ### Solution: 
 We will check the array of size 2N till N+2 elements since there are N+1
