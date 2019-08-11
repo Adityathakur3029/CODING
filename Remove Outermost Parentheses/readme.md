@@ -18,7 +18,7 @@ After removing outer parentheses of each part, this is "()()" + "()" = "()()()".
 
 ```
 
-## [Solution]()
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Remove%20Outermost%20Parentheses/sol.cpp)
 
 ### Solution: 
 We will declare two integers open and close with 0 as initialize value for open and close parentheses respectively.
