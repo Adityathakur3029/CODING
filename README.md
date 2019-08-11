@@ -10,3 +10,8 @@ I have learnt VECTOR and FUNCTIONS associated with it.
 - [Jewels and Stones](https://github.com/Adityathakur3029/CODING/tree/master/Jewels%20and%20Stones)
 - [Big Countries](https://github.com/Adityathakur3029/CODING/tree/master/Big%20Countries)
 - [Remove Outermost Parentheses](https://github.com/Adityathakur3029/CODING/tree/master/Remove%20Outermost%20Parentheses)
+- [Flipping an Image]()
+- [Flipping an Image]()
+- [Flipping an Image]()
+- [Flipping an Image]()
+- [Flipping an Image]()
