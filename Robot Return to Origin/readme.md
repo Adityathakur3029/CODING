@@ -14,7 +14,7 @@ Explanation: The robot moves up once, and then down once. All moves have the sam
 
 ```
 
-## [Solution]()
+## [Solution](https://github.com/Adityathakur3029/CODING/blob/master/Robot%20Return%20to%20Origin/sol.cpp)
 
 ### Solution: 
 We will declare two integers count and sum.
